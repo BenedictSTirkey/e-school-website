@@ -1,0 +1,220 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    padding-bottom: 100px;
+
+}
+
+h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.section-header h2{
+    text-align: center;
+    color: #413960;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 54px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+/* navbar css starts here  */
+
+.header-sec{
+    background-color: #F0FFF0;
+    /* height: 576px; */
+    /* padding-bottom: 40px; */
+
+}
+
+.navbar{
+    background-color: #F0FFF0; 
+}
+
+.button-style-nav{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+
+}
+
+.nav-item:hover{
+
+    background-color: #21B573;
+    border-radius: 33px;
+
+}
+
+
+/* navbar css ends here  */
+
+
+/* Hero section css starts here */
+
+
+.red-text{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.green-text{
+    color: #21B573;
+    
+}
+
+.gray-text{
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+
+.button-style{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 36px;
+    cursor: pointer;
+}
+
+/* Hero section css ends here */
+
+
+
+/* E-School Statistics section CSS starts here  */
+
+
+
+.col-md-3:hover{
+    box-shadow: 10px 20px 30px #21B573;
+    border-radius: 10px;
+}
+
+
+.statistics{
+    padding-top: 100px;
+}
+
+
+.stat-box-color{
+    background: #F8FFFB;       
+    border-radius: 10px;
+}
+
+.stat-box-white{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.stat-box-color, .stat-box-white{
+
+    padding: 30px 30px;
+
+
+}
+
+.stat-image{
+
+}
+
+
+.stat-text{
+    padding-top: 20px;
+
+}
+
+
+
+
+
+/* E-School Statistics section CSS ends here  */
+
+
+/* online courses section CSS starts here */
+
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.315);
+    border-radius: 18px;
+}
+
+
+.img-cal{
+    width: 24px;
+    height: 24px;
+}
+
+/* online courses section CSS ends here */
+
+
+
+/* testimonial section CSS starts here */
+
+
+
+.testimonial-image{
+    width: 120px;
+    height: 120px;
+    /* border-radius: round; */
+    /* background: url(.jpg), #C4C4C4 */
+}
+
+
+/* testimonial section CSS ends here */
+
+
+
+/* footer section CSS starts here */
+
+
+
+footer{
+    
+    background-color: #282531;
+    color: #FFFFFF;
+    padding-top: 60px;
+
+    
+
+}
+
+footer ul li{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 30px;
+
+}
+footer ul li a{
+    color: #FFFFFF;
+
+}
+
+a {
+    text-decoration: none ;
+ }
+
+a:hover{
+   color:#21B573;
+   text-decoration:none;
+   cursor:pointer;
+}
+
+
+.copyright-text{
+    text-align: center;
+}
+
+/* footer section CSS ends here */
